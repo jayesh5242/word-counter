@@ -4,14 +4,14 @@ This is a Word Counter made with HTML, CSS, and JavaScript. It helps you count h
 
 What it does:
 
-Counts words as you type
-Counts characters
-Updates in real time
-Works on phones and computers
-Easy to use and clean design
+Counts words as you type,
+Counts characters,
+Updates in real time,
+Works on phones and computers,
+Easy to use and clean design.
 
  Made with:
  
-HTML – for the structure
-CSS – for the style
-JavaScript – for the logic
+HTML – for the structure,
+CSS – for the style,
+JavaScript – for the logic.
